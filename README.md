@@ -1,6 +1,12 @@
 # dineshmadhup-github.io
-
+<!DOCTYPE HTML>
 <html>
-  <h1> hellow</h1>
-    
-    </html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
