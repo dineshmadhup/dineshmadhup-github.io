@@ -1,5 +1,5 @@
 # dineshmadhup-github.io
-<!DOCTYPE HTML>
+
 <html>
 <head>
 <title>Title of the document</title>
